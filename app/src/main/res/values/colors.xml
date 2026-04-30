@@ -1,0 +1,5 @@
+<resources>
+    <color name="bg_history">#FDF5E6</color>
+    <color name="bg_programming">#E8F0FE</color>
+    <color name="bg_cinema">#FCE4EC</color>
+</resources>

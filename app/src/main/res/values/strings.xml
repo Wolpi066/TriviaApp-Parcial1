@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Trivia App</string>
+
+    <!-- Textos Actividad 1 -->
+    <string name="title_access">Bienvenido a la Trivia</string>
+    <string name="hint_name">Ingresá tu nombre o nickname</string>
+    <string name="error_empty_name">El nombre no puede estar vacío</string>
+    <string name="btn_start">Iniciar Juego</string>
+
+    <!-- Opciones del Spinner -->
+    <string-array name="categories_array">
+        <item>Historia</item>
+        <item>Programación</item>
+        <item>Cine</item>
+    </string-array>
+
+    <!-- Textos Actividad 2 -->
+    <string name="greeting">¡Hola %1$s! Elegiste %2$s</string>
+    <string name="btn_verify">Verificar Respuesta</string>
+    <string name="msg_correct">¡Respuesta Correcta! Excelente.</string>
+    <string name="msg_incorrect">Respuesta Incorrecta. Suerte la próxima.</string>
+    <string name="select_option_error">Por favor, seleccioná una opción.</string>
+</resources>
